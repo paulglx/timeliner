@@ -14,13 +14,13 @@ It adds blanks between the videos to allow time for crowd reactions.
 
 ## Usage
 
-> **Note:** The script will only work if the DaVinci Resolve project is already open.
+> **Note:** The script will only work if DaVinci Resolve is already open.
 
 ```bash
 python timeliner.py <path_to_directory>
 ```
 
-The directory must contain video files without special characters in their names (spaced are allowed). The files will be sorted alphabetically and added to the timeline in the same order.
+> The directory must contain video files without special characters in their names (spaced are allowed). The files will be sorted alphabetically and added to the timeline in the same order.
 
 Example:
 
